@@ -1,0 +1,5 @@
+Flask==3.0.0
+google-api-python-client==2.106.0
+numpy==1.24.3
+Keras==2.13.1
+vaderSentiment==3.3.2
